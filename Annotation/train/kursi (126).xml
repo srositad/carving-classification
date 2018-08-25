@@ -1,0 +1,62 @@
+<annotation>
+	<folder>kursi</folder>
+	<filename>kursi (126).jpg</filename>
+	<path>D:\Dokumen sita\Kuliah\SKRIPSI (TA)\NEW FIX\Images\kursi\kursi (126).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carving Chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>182</ymin>
+			<xmax>137</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carving Chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>159</ymin>
+			<xmax>358</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carving Chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>396</xmin>
+			<ymin>167</ymin>
+			<xmax>584</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carving Table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>246</ymin>
+			<xmax>370</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

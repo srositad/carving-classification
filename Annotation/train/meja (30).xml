@@ -1,0 +1,26 @@
+<annotation>
+	<folder>meja</folder>
+	<filename>meja (30).jpg</filename>
+	<path>D:\Dokumen sita\Kuliah\SKRIPSI (TA)\NEW FIX\Images\meja\meja (30).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carving Table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>110</ymin>
+			<xmax>1881</xmax>
+			<ymax>1015</ymax>
+		</bndbox>
+	</object>
+</annotation>

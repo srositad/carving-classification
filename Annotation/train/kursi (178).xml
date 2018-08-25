@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kursi</folder>
+	<filename>kursi (178).jpg</filename>
+	<path>D:\Dokumen sita\Kuliah\SKRIPSI (TA)\NEW FIX\Images\kursi\kursi (178).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>218</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carving Chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>23</ymin>
+			<xmax>274</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>
